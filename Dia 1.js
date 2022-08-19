@@ -5,3 +5,6 @@ let stringTrinta = '30'
 let numeroDez = 10
 let stringDez = '10'
 
+if (Comparar o numeroUm e a stringUm){
+    console.log (numeroUm )
+}
